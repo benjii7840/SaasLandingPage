@@ -4,6 +4,7 @@ import Homepage from "../components/Homepage";
 import Sponsors from "../components/Sponsors";
 import Whatwedo from "../components/Whatwedo";
 import CTA from "../components/CTA";
+import WhyUs from "../components/WhyUs";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Sponsors />
       <Whatwedo />
       <CTA />
+      <WhyUs />
     </section>
   );
 };
