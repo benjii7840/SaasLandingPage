@@ -6,6 +6,7 @@ import Whatwedo from "../components/Whatwedo";
 import CTA from "../components/CTA";
 import WhyUs from "../components/WhyUs";
 import Appdownload from "../components/appdownload";
+import Blogpost from "../components/Blogpost";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <CTA />
       <WhyUs />
       <Appdownload />
+      <Blogpost />
     </section>
   );
 };
