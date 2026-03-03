@@ -8,10 +8,11 @@ import WhyUs from "../components/WhyUs";
 import Appdownload from "../components/appdownload";
 import Blogpost from "../components/Blogpost";
 import Connect from "../components/Connect";
+import Footer from "../components/Footer";
 
 const App = () => {
   return (
-    <section className="w-full h-screen bg-[#E5E5E5] ">
+    <section className="w-full h-screen bg-[#E5E5E5] overflow-x-hidden ">
       <Navbar />
       <Homepage />
       <Sponsors />
@@ -21,6 +22,7 @@ const App = () => {
       <Appdownload />
       <Blogpost />
       <Connect />
+      <Footer />
     </section>
   );
 };
