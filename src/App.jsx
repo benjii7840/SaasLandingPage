@@ -7,6 +7,7 @@ import CTA from "../components/CTA";
 import WhyUs from "../components/WhyUs";
 import Appdownload from "../components/appdownload";
 import Blogpost from "../components/Blogpost";
+import Connect from "../components/Connect";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <WhyUs />
       <Appdownload />
       <Blogpost />
+      <Connect />
     </section>
   );
 };
