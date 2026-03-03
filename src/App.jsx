@@ -5,6 +5,7 @@ import Sponsors from "../components/Sponsors";
 import Whatwedo from "../components/Whatwedo";
 import CTA from "../components/CTA";
 import WhyUs from "../components/WhyUs";
+import Appdownload from "../components/appdownload";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Whatwedo />
       <CTA />
       <WhyUs />
+      <Appdownload />
     </section>
   );
 };

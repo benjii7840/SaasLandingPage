@@ -35,6 +35,9 @@ const WhyUs = () => {
             </div>
           ))}
         </div>
+        <button className="mt-10 bg-[#5D5FEF] text-white px-6 py-3 rounded-lg hover:bg-[#017a5b] transition duration-300 block mx-auto text-sm flex">
+          More About Platform
+        </button>
       </div>
     </section>
   );
