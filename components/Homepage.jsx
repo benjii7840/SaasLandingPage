@@ -2,7 +2,7 @@ import React from "react";
 
 const Homepage = () => {
   return (
-    <section className="w-full h-screen bg-[#E5E5E5] flex  justify-between">
+    <section className="w-full h-screen bg-[#F5F5F5] flex  justify-between">
       {/* Text on the left */}
       <div className="ml-20 mt-30">
         <h2 className=" text-black text-xl">
