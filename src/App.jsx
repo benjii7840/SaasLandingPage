@@ -5,7 +5,7 @@ import Sponsors from "../components/Sponsors";
 import Whatwedo from "../components/Whatwedo";
 import CTA from "../components/CTA";
 import WhyUs from "../components/WhyUs";
-import Appdownload from "../components/appdownload";
+import Appdownload from "../components/Appdownload";
 import Blogpost from "../components/Blogpost";
 import Connect from "../components/Connect";
 import Footer from "../components/Footer";

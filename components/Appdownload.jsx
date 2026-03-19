@@ -2,7 +2,7 @@ import React from "react";
 import { FaApple } from "react-icons/fa";
 import { FaGooglePlay } from "react-icons/fa";
 
-const appdownload = () => {
+const Appdownload = () => {
   return (
     <section className="mt-20 flex justify-center items-center">
       <div>
@@ -33,4 +33,4 @@ const appdownload = () => {
   );
 };
 
-export default appdownload;
+export default Appdownload;
