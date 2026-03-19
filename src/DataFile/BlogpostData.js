@@ -5,7 +5,7 @@ export const BlogpostData = [
     title: "Believing neglected so so allowance existence ",
     content:
       "Blessing welcomed ladyship she met humoured sir breeding her. Six curiosity day assurance bed ",
-    imageUrl: "/Rectangle-177.png",
+    imageUrl: "/rectangle-177.png",
   },
   {
     id: 2,
@@ -14,6 +14,6 @@ export const BlogpostData = [
       "In design active temper be uneasy. Thirty for remove plenty regard you.",
     content:
       "Yet preference connection unpleasant yet melancholy but end appearance. And excellence partiality estimating terminated day everything.",
-    imageUrl: "/Rectangle2.png",
+    imageUrl: "/rectangle2.png",
   },
 ];
