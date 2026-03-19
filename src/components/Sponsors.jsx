@@ -7,7 +7,7 @@ const Sponsors = () => {
         Over 32k+ software businesses growing with AR Shakir
       </p>
       <img
-        src="/assets/logos.png"
+        src="/logos.png"
         alt="partners logos"
         className="w-250 h-10 object-contain w-60 h-5 mt-5"
       />

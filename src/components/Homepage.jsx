@@ -33,7 +33,7 @@ const Homepage = () => {
         </div>
         <div>
           <img
-            src="/assets/Group 159.png"
+            src="/Group-159.png"
             alt="checkpoint"
             className="w-50 h-50 object-contain"
           />
@@ -43,7 +43,7 @@ const Homepage = () => {
       {/* Image on the right */}
       <div className="flex justify-end">
         <img
-          src="/assets/homepage.png"
+          src="/homepage.png"
           alt="logo"
           className="w-160 h-160 object-contain"
         />

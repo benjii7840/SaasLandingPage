@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <nav className="flex bg-transparent">
       <img
-        src="/assets/AR Shakir.png"
+        src="/AR-Shakir.png"
         alt="logo"
         className="ml-10 mt-5 w-20 h-5 mt-7"
       />

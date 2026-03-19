@@ -46,7 +46,7 @@ const Whatwedo = () => {
 
       {/* ZIGZAG IMAGE — covers the right portion, starts mid-left */}
       <img
-        src="/assets/vector 335.png"
+        src="/vector-335.png"
         alt="zigzag"
         className="absolute z-0"
         style={{
